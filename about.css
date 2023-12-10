@@ -1,0 +1,13 @@
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 24px;
+}
+
+td {
+    padding: 20px;
+}
+
+/* about.css was a non HTML page used to create different styling on the about page. Research showed this was best practices when coding in HTML
